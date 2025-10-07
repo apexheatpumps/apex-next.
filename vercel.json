@@ -1,0 +1,6 @@
+{
+  "framework": "nextjs",
+  "routes": [
+    { "src": "/healthz", "dest": "/api/healthz" }
+  ]
+}
